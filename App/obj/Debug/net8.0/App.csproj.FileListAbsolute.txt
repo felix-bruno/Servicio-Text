@@ -1,10 +1,3 @@
-C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.csproj.AssemblyReference.cache
-C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.AssemblyInfoInputs.cache
-C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.AssemblyInfo.cs
-C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.csproj.CoreCompileInputs.cache
-C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\bin\Debug\net8.0\appsettings.json
 C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\bin\Debug\net8.0\App.exe
@@ -17,6 +10,14 @@ C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\bin\Debug\net8.0\Newton
 C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.csproj.AssemblyReference.cache
+C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.AssemblyInfoInputs.cache
+C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.AssemblyInfo.cs
+C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.sourcelink.json
 C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\staticwebassets\msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
@@ -31,4 +32,3 @@ C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\refint
 C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.pdb
 C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.genruntimeconfig.cache
 C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\ref\App.dll
-C:\Users\Developer\Documents\BackEnd\C#\Apis\Service\App\obj\Debug\net8.0\App.sourcelink.json

@@ -16,6 +16,11 @@ namespace App.Controllers
         {
             _fileConvert = fileConvert;
         }
+        [HttpGet]
+        public IActionResult UploadFile()
+        {
+            return Ok(true);
+        }
         [HttpPost("UploadFile")]
         public IActionResult UploadFile(IFormFile file, int numberOfObjects)
         {
