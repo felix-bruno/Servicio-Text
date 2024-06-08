@@ -23,9 +23,17 @@ namespace App.Controllers
             {
                 return BadRequest("File is empty");
             }
+            if(numberOfObjects <= 0)
+            {
+                return BadRequest("Enviar un valor mayor a cero");
+            }
             try
             {
                 List<AppRegistro>? data = _fileConvert.ConvertirData(file, numberOfObjects);
+                if(data == null || data.Count == 0)
+                {
+                    throw new Exception("Ocurrio un inconveniente comunicarse con soporte");
+                }
                 string jsonContent = JsonConvert.SerializeObject(data);
                 List<AppRegistro>? deserializedData = JsonConvert.DeserializeObject<List<AppRegistro>>(jsonContent);
                 return Ok(deserializedData);
@@ -34,10 +42,10 @@ namespace App.Controllers
             {
                 ResponseRespuesta res = new ResponseRespuesta()
                 {
-                    Codigo = "4000",
-                    Mensaje = "Ocurrio un incoveniente"
+                    Codigo = "5000",
+                    Mensaje = ex.Message
                 };
-                return StatusCode(400,res);
+                return StatusCode(500,res);
             }
         }
     }
